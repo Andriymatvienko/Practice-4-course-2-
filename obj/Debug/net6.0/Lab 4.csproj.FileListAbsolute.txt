@@ -1,0 +1,14 @@
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\bin\Debug\net6.0\Lab 4.exe
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\bin\Debug\net6.0\Lab 4.deps.json
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\bin\Debug\net6.0\Lab 4.runtimeconfig.json
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\bin\Debug\net6.0\Lab 4.dll
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\bin\Debug\net6.0\Lab 4.pdb
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.AssemblyInfoInputs.cache
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.AssemblyInfo.cs
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.dll
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\refint\Lab 4.dll
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.pdb
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\Lab 4.genruntimeconfig.cache
+C:\Users\dadai\OneDrive\Рабочий стол\Тут все папки\Учеба\OOP\Lab 4\obj\Debug\net6.0\ref\Lab 4.dll
